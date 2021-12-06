@@ -1,6 +1,7 @@
 # pokemon
 <h1>pokemon</h1>
     <img src="https://github.com/sgrprmnk/pokemon/blob/main/pokemon.png" />
+    <a href="https://pokemon-pokemon-pokemon.netlify.app">Website View</a>
     <h2>Usage:</h2>
     <ul>
       <li>for entertainment purpose</li>
